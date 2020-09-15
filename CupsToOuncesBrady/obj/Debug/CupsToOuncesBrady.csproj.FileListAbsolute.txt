@@ -1,0 +1,36 @@
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.CupsToOuncesForm.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.CupsToOuncesForm.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.CupsToOuncesForm.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.CupsToOuncesForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBrady\obj\Debug\CupsToOuncesBrady.pdb

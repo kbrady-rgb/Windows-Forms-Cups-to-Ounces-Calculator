@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupsToOuncesBrady", "CupsToOuncesBrady\CupsToOuncesBrady.csproj", "{20623A3E-AC13-486A-B5C2-D2BDFE6502B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupsToOuncesTest", "CupsToOuncesBradyTests\CupsToOuncesTest.csproj", "{6E2FE908-F189-45B0-B2DF-B441A496DCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20623A3E-AC13-486A-B5C2-D2BDFE6502B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20623A3E-AC13-486A-B5C2-D2BDFE6502B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20623A3E-AC13-486A-B5C2-D2BDFE6502B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20623A3E-AC13-486A-B5C2-D2BDFE6502B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2FE908-F189-45B0-B2DF-B441A496DCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2FE908-F189-45B0-B2DF-B441A496DCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2FE908-F189-45B0-B2DF-B441A496DCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2FE908-F189-45B0-B2DF-B441A496DCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF7BF2B-046D-41E4-83A4-3DD7476BE2B8}
+	EndGlobalSection
+EndGlobal

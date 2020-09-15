@@ -1,0 +1,30 @@
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csproj.CopyComplete
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csproj.CopyComplete
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBradyTests.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\bin\Debug\CupsToOuncesBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesTest.csproj.CopyComplete
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.dll
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 12\CupsToOuncesBrady - Last test not working\CupsToOuncesBradyTests\obj\Debug\CupsToOuncesBradyTests.pdb
